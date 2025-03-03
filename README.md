@@ -31,5 +31,8 @@ You are tasked with analyzing the provided NFT sales dataset to answer the follo
 12.	Estimated Average Value Calculator: Create a daily average value calculator excluding daily outlier sales where the purchase price is below 10% of the daily average price, then calculate the daily average of the remaining transactions.
 
 ## Solution
-<a href = "">SQL Queries Script</a>
+<a href = "https://github.com/Poonam3094/SQL-Casestudy/blob/main/nft%20assignment%20(sql%20script).sql">SQL Queries Script</a>
+
+## Conclusion
+This project provides a comprehensive analysis of NFT sales data, showcasing various SQL skills and techniques. By following the prompts and using the example queries provided, you can gain valuable insights into the NFT market and demonstrate your proficiency in SQL.
     
